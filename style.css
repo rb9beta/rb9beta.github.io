@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'lucida-console-regular';
+    src: local('lucida-console-regular'), url(lucida-console-regular.ttf);
+}
+body { background-color:black; color:white;  font-family: lucida-console-regular; }
